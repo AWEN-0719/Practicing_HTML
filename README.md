@@ -34,7 +34,7 @@ README.md 的編寫方式說明
 <br>
 範例 : `[我在 GitHub 上的清單](https://DavidPeng1.github.io "Bulid School 作業清單")`
 <br>
-[我在 GitHub 上的清單](https://AWEN-0719.github.io "Bulid School 作業清單")
+[我在 GitHub 上的清單]([https://awen-0719.github.io/BulidSchool] "Bulid School 作業清單")
 
 
 插入圖片
