@@ -5,7 +5,7 @@ README.md 的編寫練習
 比大標題低一級的是中標題，也就是顯示出來比大標題小點。
 
 
-README.md 的編寫方式說明
+# README.md 的編寫方式說明
 --------------------------------------------------
 在文字下面加上 下劃線 - ，那麼上方的文字就變成了中標題，同樣的 下劃線個數無限制。
 
@@ -20,15 +20,15 @@ README.md 的編寫方式說明
 
 如果有特殊符號, 使用Tab鍵上方的`符號可以標示
 
-文字超連結
+## 文字超連結
 -----------------------------------------
 在`[]`內寫入超連結要顯示的文字,超連結部分在`()`內寫入連結的地址
 <br>
-範例 : `[我在 GitHub 上的清單](https://AWEN=0719.github.io)`
+範例 : [我在 GitHub 上的清單](https://AWEN=0719.github.io)
 <br>
 顯示結果如下
 <br>
-[我在 GitHub 上的清單]([https://AWEN-0719.github.io]`(https://awen-0719.github.io/BulidSchool/readme.me)`)
+[我在 GitHub 上的清單]([https://AWEN-0719.github.io](https://awen-0719.github.io/BulidSchool/readme.me))
 <br>
 還可以在滑鼠停在超連結文字時, 出現提示文字, 例如要顯示作業的結果。
 <br>
@@ -37,21 +37,8 @@ README.md 的編寫方式說明
 [我在 GitHub 上的清單]([https://awen-0719.github.io/BulidSchool] "Bulid School 作業清單")
 
 
-插入圖片
+## 插入程式碼
 ---------------------------------------------
-驚嘆號! + 方括號[ ] + 括號(url) 
-<br>
-範例 : `![](https://www.google.com.tw/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png)`
-<br>
-![](https://www.google.com.tw/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png)
-<br>
-GitHub倉庫裡的圖片, 與上面的格式基本一致的，所不同的就是括號裡的URL該怎麼寫。
-還可以在滑鼠停在超連結圖片時, 出現提示文字, 例如要顯示Bulid School Logo。
-驚嘆號! + 方括號[ ] + 括號(url+提示文字 ) 
-<br>
-範例 : `https://raw.githubusercontent.com/DavidPeng1/DavidPeng1.github.io/main/Build%20School%20Logo.webp`
-<br>
-![](https://raw.githubusercontent.com/AWEN-0719/AWEN-0719.github.io/main/Build%20School%20Logo.webp "Bulid School Logo")
 <br>
 插入程式碼的方法, 在`開頭處加入``` + 語言別, 如html= + 程式碼 + 結尾處也需要```的符號`
 
