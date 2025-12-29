@@ -28,7 +28,7 @@ README.md 的編寫方式說明
 <br>
 顯示結果如下
 <br>
-[我在 GitHub 上的清單]([https://AWEN-0719.github.io](https://awen-0719.github.io/BulidSchool))
+[我在 GitHub 上的清單]([https://AWEN-0719.github.io]`(https://awen-0719.github.io/BulidSchool/readme.me)`)
 <br>
 還可以在滑鼠停在超連結文字時, 出現提示文字, 例如要顯示作業的結果。
 <br>
