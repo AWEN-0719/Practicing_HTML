@@ -6,17 +6,25 @@
 - 遇到重複內容 → 使用 rowspan
 - 遇到共用內容 → 使用 colspan
 
-#### 熟悉 #### 熟悉 `<table>`、`<thead>`、`<tbo
--<caption>：表格標題（課表名稱）
--<thead>：表頭（星期、時段、欄位說明）
--<tbody>：主要資料內容（實際課表）
+### 熟悉 <table> 的語意分區
+```
+<table>
+  <caption></caption>
+  <thead></thead>
+  <tbody></tbody>
+  <tfoot></tfoot>
+</table>
+```
+- <caption> ：表格標題（課表名稱）
+- <thead> ：表頭（星期、時段、欄位說明）
+- <tbody> ：主要資料內容（實際課表）
 
-#### 使用 #### 使用 `rowspan` 進
+### 使用 `rowspan` 進
 同一欄位跨多列（例如「上午 / 下午」）
 rowspan="n"：此儲存格向下合併 n 列
 使用在時段分類、課程類別、教師或分鐘數彙總
 
-#### 使用 #### 使用 `colspan` 進
+### 使用 `colspan` 進
 同一列跨多欄（例如「教職員朝會」）
 colspan="n"：此儲存格向右合併 n 欄
 使用在全班共同活動、午餐時間、備註說明欄位
