@@ -10,7 +10,7 @@
 | 練習04 | [ CSS 練習 Grid 定位 ](https://awen-0719.github.io/Practicing_HTML//HTML/Exercise04/index.html)  | [ 筆記 ](https://github.com/AWEN-0719/Practicing_HTML/blob/main/HTML/Exercise04.md) |
 | 練習05 | [ Bootstrap 練習-1 ](https://awen-0719.github.io/Practicing_HTML//HTML/Exercise05/index.html) [o] [ Bootstrap 練習-2 ](https://awen-0719.github.io/Practicing_HTML//HTML/Exercise05/index_1.html) | [ 筆記 ](https://github.com/AWEN-0719/Practicing_HTML/blob/main/HTML/Exercise05.md) 
 
-| [練習 01 ~ 05 於 2026/01 整理筆記與心得](https://github.com/AWEN-0719/Practicing_HTML/blob/main/HTML/Exercise01-05.md) |
+| [練習 01 ~ 05 於 2026/01 整理 HTML / CSS / Bootstrap 練習筆記（前端基礎）](https://github.com/AWEN-0719/Practicing_HTML/blob/main/HTML/Exercise01-05.md) |
 |---------|
 
 ---
