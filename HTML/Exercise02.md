@@ -87,8 +87,7 @@ body {
 ```
 #### 練習心得
 Flexbox 很適合做「左右排列」，比 float 好控制、好閱讀
-常用屬性：
-‵ -```display: flex```
+- ```display: flex```
 - ```justify-content```
 - ```flex-wrap```
 
