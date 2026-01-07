@@ -3,10 +3,10 @@
 
 <br>[練習01 表單表格練習] ([https://AWEN-0719.github.io/Practicing_HTML//HTML/Exercise01/index.html](https://awen-0719.github.io/Practicing_HTML//HTML/Exercise01/index.html)l
 <br>[練習01 筆記] ([https://AWEN-0719.github.io/Practicing_HTML//HTML/Exercise01.md](https://github.com/AWEN-0719/Practicing_HTML/blob/main/HTML/Exercise01.md))
+<br>[練習02 SHOPLINE 網頁樣式練習復刻]([tps://awen-0719.github.io/Practicing_HTML//HTML/Exercise02/index.html](https://awen-0719.github.io/Practicing_HTML//HTML/Exercise02/index.html))
 
 
 
-<br>[作業02 SHOPLINE - 網頁樣式復刻練習](https://AWEN-0719.github.io/Practicing_HTML/HomeWork/HW02/HW02.html)
 <br>[作業03 TOYOTA - CSS 練習 Position](https://AWEN-0719.github.io/Practicing_HTML/HomeWork/HW03/HW03.html)
 <br>[作業04 TOYOTA - CSS 練習 Grid](https://AWEN-0719.github.io/Practicing_HTML/HomeWork/HW04/HW04.html)
 <br>[作業05 簡介 - JavaScript 練習](https://AWEN-0719.github.io/Practicing_HTML/HomeWork/HW05/HW05.html)
