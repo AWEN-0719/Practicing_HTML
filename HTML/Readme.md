@@ -18,7 +18,7 @@
 |練習項次|點擊題目可展示作品|點擊筆記可查看內容|
 |---------|---------|---------|
 | 練習05 | [ Bootstrap 練習-1 ](https://awen-0719.github.io/Practicing_HTML//HTML/Exercise05/index.html) [o] [ Bootstrap 練習-2 ](https://awen-0719.github.io/Practicing_HTML//HTML/Exercise05/index_1.html) | [ 筆記 ](https://github.com/AWEN-0719/Practicing_HTML/blob/main/HTML/Exercise05.md) |
-
+| 練習06 | [ JavaScript 練習 ](https://awen-0719.github.io/Practicing_HTML//HTML/Exercise06/index.html)  | [ 筆記 ](https://github.com/AWEN-0719/Practicing_HTML/blob/main/HTML/Exercise06.md) |
 
 
 
