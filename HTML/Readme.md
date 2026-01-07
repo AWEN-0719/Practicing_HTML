@@ -10,7 +10,7 @@
 | 練習04 | [ CSS 練習 Grid 定位 ](https://awen-0719.github.io/Practicing_HTML//HTML/Exercise04/index.html)  | [ 筆記 ](https://github.com/AWEN-0719/Practicing_HTML/blob/main/HTML/Exercise04.md) |
 
 
-[ 練習01 ~ 04 心得 ](https://github.com/AWEN-0719/Practicing_HTML/blob/main/HTML/Exercise01-04.md)
+[ 練習 01 ~ 04 心得 2026/01/07 ](https://github.com/AWEN-0719/Practicing_HTML/blob/main/HTML/Exercise01-04.md)
 |---------|
 
 
