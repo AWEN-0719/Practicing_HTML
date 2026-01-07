@@ -17,7 +17,6 @@
 
 |練習項次|點擊題目可展示作品|點擊筆記可查看內容|
 |---------|---------|---------|
-|
 | 練習06 | [ JavaScript 練習 ](https://awen-0719.github.io/Practicing_HTML//HTML/Exercise06/index.html) | [ 筆記 ](https://github.com/AWEN-0719/Practicing_HTML/blob/main/HTML/Exercise06.md) |
 
 
