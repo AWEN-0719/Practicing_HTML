@@ -6,14 +6,13 @@
 |---------|---------|---------|
 | 練習01 | [ 表單表格練習 ](https://awen-0719.github.io/Practicing_HTML//HTML/Exercise01/index.html) | [ 筆記 ](https://github.com/AWEN-0719/Practicing_HTML/blob/main/HTML/Exercise01.md) |
 | 練習02 | [ SHOPLINE 網頁樣式 - 練習復刻 ](https://awen-0719.github.io/Practicing_HTML//HTML/Exercise02/index.html) |[ 筆記 ](https://github.com/AWEN-0719/Practicing_HTML/blob/main/HTML/Exercise02.md) |
+| 練習03 | [ CSS 練習 Position 定位 ](https://awen-0719.github.io/Practicing_HTML//HTML/Exercise03/index.html)  | [ 筆記 ](https://github.com/AWEN-0719/Practicing_HTML/blob/main/HTML/Exercise03.md)) |
 
 
 
 
 
-<br>[練習02 筆記] ([https://AWEN-0719.github.io/Practicing_HTML//HTML/Exercise02.md](https://github.com/AWEN-0719/Practicing_HTML/blob/main/HTML/Exercise02.md))
-<br>[練習03 CSS 練習 Position 定位] ([https://AWEN-0719.github.io/Practicing_HTML//HTML/Exercise03/index.html](https://awen-0719.github.io/Practicing_HTML//HTML/Exercise03/index.html))
-<br>[練習03 筆記] ([https://AWEN-0719.github.io/Practicing_HTML//HTML/Exercise03.md](https://github.com/AWEN-0719/Practicing_HTML/blob/main/HTML/Exercise03.md))
+
 
 
 
