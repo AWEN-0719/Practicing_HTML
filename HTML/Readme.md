@@ -5,7 +5,7 @@
 <br>[練習01 筆記] ([https://AWEN-0719.github.io/Practicing_HTML//HTML/Exercise01.md](https://github.com/AWEN-0719/Practicing_HTML/blob/main/HTML/Exercise01.md))
 <br>[練習02 SHOPLINE 網頁樣式 - 練習復刻] ([https://AWEN-0719.github.io/Practicing_HTML//HTML/Exercise02/index.html](https://awen-0719.github.io/Practicing_HTML//HTML/Exercise02/index.html))
 <br>[練習02 筆記] ([https://AWEN-0719.github.io/Practicing_HTML//HTML/Exercise02.md](https://github.com/AWEN-0719/Practicing_HTML/blob/main/HTML/Exercise02.md))
-<br>[練習03 CSS 練習 Position 定位] ([hps://AWEN-0719.github.io/Practicing_HTML//HTML/Exercise03/index.html](https://awen-0719.github.io/Practicing_HTML//HTML/Exercise03/indexl.html))
+<br>[練習03 CSS 練習 Position 定位] ([https://AWEN-0719.github.io/Practicing_HTML//HTML/Exercise03/index.html](https://awen-0719.github.io/Practicing_HTML//HTML/Exercise03/indexl.html))
 
 <br>[作業03 TOYOTA - CSS 練習 Position](https://AWEN-0719.github.io/Practicing_HTML/HomeWork/HW03/HW03.html)
 <br>[作業04 TOYOTA - CSS 練習 Grid](https://AWEN-0719.github.io/Practicing_HTML/HomeWork/HW04/HW04.html)
