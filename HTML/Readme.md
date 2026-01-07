@@ -9,8 +9,10 @@
 | 練習03 | [ CSS 練習 Position 定位 ](https://awen-0719.github.io/Practicing_HTML//HTML/Exercise03/index.html)  | [ 筆記 ](https://github.com/AWEN-0719/Practicing_HTML/blob/main/HTML/Exercise03.md) |
 | 練習04 | [ CSS 練習 Grid 定位 ](https://awen-0719.github.io/Practicing_HTML//HTML/Exercise04/index.html)  | [ 筆記 ](https://github.com/AWEN-0719/Practicing_HTML/blob/main/HTML/Exercise04.md) |
 
-|---------|
+
 [ 練習01 ~ 04 心得 ](https://github.com/AWEN-0719/Practicing_HTML/blob/main/HTML/Exercise01-04.md)
+|---------|
+
 
 |練習項次|點擊題目可展示作品|點擊筆記可查看內容|
 |---------|---------|---------|
