@@ -1,42 +1,136 @@
-# 小結 練習01 ~ 04 
-- 本階段練習主要是學習 HTML / CSS 切版的訓練
-- 從基礎結構 → 表格 → Position → CSS Grid
-- 目的是建立 「版面思維」與「排版能力」
+# 小結 練習 01 ~ 05 
+## HTML / CSS / Bootstrap 練習筆記（前端基礎）
+這是個人前端基礎學習紀錄，內容涵蓋 HTML 結構、CSS 版面配置、CSS Grid 與 Bootstrap 5
+目的在於建立正確的前端基礎觀念，並作為求職時可檢視的學習成果
 
-## 練習概要
-|練習|範圍|技術|學習心得|
-|----|----|----|----|
-|練習01|HTML基礎結構|HTML|語意結構與標籤用途|
-|練習02|表格練習|table/colspan/rowspan|格線思維|
-|練習03|Position版型|position/flexbox|重疊與交錯|
-|練習04|Grid版型|CSS/Grid|版面配置|
+### 目標
+- 熟悉 HTML 語意化結構
+- 理解 CSS 基本排版與版型控制
+- 掌握 CSS Grid 的實務用法
+- 學會使用 Bootstrap 快速建立 RWD 與常見 UI 元件
 
-### 練習01
-- 認識 HTML 文件的基本結構，HTML 負責內容與語意
-- 學習標籤使用習慣，標籤不是為了好看，而是為了「結構清楚」
-- 區分「結構」與「樣式」，CSS 排版都建立在 HTML 結構之上
+#### 使用技術（Tech Stack）
+- HTML5
+- CSS3
+- CSS Grid
+- Bootstrap 5
 
-### 練習02
-- 使用表格方式來訓練版面思維
-- 用格子思考版面，練習合併欄位與列，訓練橫向與縱向對齊的概念，
-- 運用 ```<table>``` 製作複雜表格，``` rowspan/colspan/<thead>/<tbody>/<caption> ```
+📂 練習內容總覽
+|  練習  |  主題  |	重點能力  |
+|  ---  |  ---  |  ---  |
+|  練習 01  |	HTML 基本結構	|  HTML 標籤、區塊概念  |
+|  練習 02  |	CSS 樣式基礎  |	排版、字型、間距  |
+|  練習 03  |	版型練習  |  Flex / 區塊配置  |
+|  練習 04  |	CSS Grid  |  精準版面控制  |
+|  練習 05  |	Bootstrap  |	RWD、元件整合  |
 
-### 練習 03
-- 使用 position 製作重疊效果，練習左右交錯版型並結合 Flexbox 輔助排版
-- Position 疊加元素時，要先想「誰是定位基準」
-- 相同 HTML 結構，可只用 CSS 製作多種版型
-- ``` position: relative / absolute / z-index / nth-of-type(even) / flex-direction: row-reverse ```
-- 開始接觸有版型的設計頁面，但過程中一直偏向手動控制位置，還不夠熟練
+練習 01｜HTML 基本結構
+學習目標
 
-### 練習 04
-- 使用 Grid 建立複雜版面取代大量 Position 計算
-- 學習清楚的版面配置邏輯，HTML 可以保持乾淨一致，複雜視覺效果交給 CSS 處理
-- ``` display: grid / grid-template-columns / rows / grid-column / grid-row / nth-child(even) /Grid 疊層與裝飾元素（::after）```
-- Grid + Flex 的組合，學習從「硬排版」進化到「思維排版」
+建立正確的 HTML 文件結構
 
-## 學到的觀念
-- 表格是資料 ，用``` Table```
-- 當單行排列時，用``` Flexbox```
-- 小區塊對齊，用``` Flexbox```
-- 裝飾性重疊，用``` Position```
-- 複雜版面，用``` Grid```
+理解區塊與內容的關係
+
+重點整理
+
+使用 header、main、footer 區分版面
+
+HTML 負責結構，不處理外觀
+
+求職對應能力
+
+能閱讀與撰寫結構清楚的 HTML
+
+練習 02｜CSS 樣式與排版基礎
+學習目標
+
+使用 CSS 控制字型、顏色與間距
+
+重點整理
+
+box model（margin / padding / border）
+
+class 與選擇器的使用
+
+求職對應能力
+
+能調整現有版型樣式
+
+練習 03｜版型配置練習
+學習目標
+
+建立多區塊版型
+
+重點整理
+
+區塊配置邏輯
+
+視覺層次的建立
+
+求職對應能力
+
+能依設計稿切出基本版型
+
+練習 04｜CSS Grid 進階版型
+學習目標
+
+使用 CSS Grid 建立精準版面
+
+重點整理
+
+grid-template-columns / rows
+
+grid-column / grid-row
+
+偽元素與層級控制（z-index）
+
+求職對應能力
+
+能處理複雜設計稿
+
+了解現代 CSS 版型工具
+
+練習 05｜Bootstrap 與 RWD
+範例一：整頁式 RWD 版型
+學習重點
+
+使用 Bootstrap Grid 快速完成版型
+
+響應式設計（RWD）
+
+範例二：Bootstrap 元件整合
+使用元件
+
+Navbar（含漢堡選單）
+
+Accordion
+
+Table
+
+Grid System
+
+學習重點
+
+不寫 JavaScript 即可完成互動
+
+Bootstrap 適合快速原型與後台系統
+
+求職對應能力
+
+能使用 Bootstrap 快速完成專案
+
+理解框架與原生 CSS 的差異
+
+📈 學習總結（For Recruiters）
+
+具備完整 HTML / CSS 基礎
+
+能使用 CSS Grid 與 Bootstrap 處理不同需求
+
+理解何時該使用框架、何時該自訂樣式
+
+持續累積前端實務能力中
+
+🔗 備註
+
+本專案為學習用途，持續更新中。
