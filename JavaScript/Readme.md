@@ -2,9 +2,7 @@
 ---
 ## JavaScript 複習筆記與作品集
 
-|練習項次|點擊題目可展示作品|點擊筆記可查看內容|
-|---------|---------|---------|
-| 練習06 | [ JavaScript 練習 ]((https://AWEN-0719.github.io/Practicing_HTML/JavaScript/Exercise01/index.html) | [ 筆記 ](https://github.com/AWEN-0719/Practicing_HTML/blob/main/JavaScript/Exercise01.md) |
+<br> [ JavaScript 練習 ](https://AWEN-0719.github.io/Practicing_HTML/JavaScript/Exercise01/index.html)
 
 
 
