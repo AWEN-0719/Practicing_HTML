@@ -35,8 +35,7 @@ Font Awesome（圖示字型）
 
 ## CSS 練習筆記
 ### ```position: relative``` 與 ```position: absolute```
-```
-<! -- css --!>
+```css=
 .title {
     position: relative;
 }
@@ -52,14 +51,12 @@ Font Awesome（圖示字型）
 練習中，黑色的 ```.title-text``` 就是疊在紅色標題區上
 
 ### 使用 ```nth-of-type``` 製作左右交錯版型
-```
-<! -- css --!>
+```css=
 section:nth-of-type(even) .title {
     margin-left: auto;
 }
 ```
-```
-<! -- css --!>
+```css=
 section:nth-of-type(even) .main-video {
     flex-direction: row-reverse;
 }
@@ -68,8 +65,7 @@ section:nth-of-type(even) .main-video {
 - 目的是為了避免複製兩套 HTML 結構
 
 ### Flexbox 應用於圖片區排列
-```
-<! -- css --!>
+```css=
 .main-video {
     display: flex;
     align-items: center;
@@ -80,8 +76,7 @@ Flexbox 在這裡用來控制圖片與按鈕的左右排列，快速調整對齊
 搭配 ```row-reverse``` 製作交錯效果
 
 ### 使用負 margin 製作視覺重疊
-```
-<! -- css --!>
+```css=
 .main-video .show-video {
     margin-right: -50px;
 }
@@ -95,8 +90,7 @@ Flexbox 在這裡用來控制圖片與按鈕的左右排列，快速調整對齊
 負 margin 可以讓元素「往外推」，搭配 ```z-index``` 可控制前後層次
 
 ### 直書文字（writing-mode）
-```
-<! -- css --!>
+```css=
 .title span {
     writing-mode: vertical-lr;
 }
@@ -105,8 +99,7 @@ Flexbox 在這裡用來控制圖片與按鈕的左右排列，快速調整對齊
 不需圖片即可完成排版效果
 
 ### 使用 ```::before``` 客製清單符號
-```
-<! -- css --!>
+```css=
 .main-text p:before {
     content: '●';
     color: red;
