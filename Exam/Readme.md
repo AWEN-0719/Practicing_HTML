@@ -1,9 +1,10 @@
 ==================================================
 <br>[練習](https://AWEN-0719.github.io/Practicing_HTML/Exam/Readme.me)
 --------------------------------------------------
-<br>[計算機](https://AWEN-0719.github.io/Practicing_HTML/Exam/calculator.html)
+
 <br>[計算機](https://AWEN-0719.github.io/Practicing_HTML/Exam/Calculate-1.html)
 <br>[計算機](https://AWEN-0719.github.io/Practicing_HTML/Exam/Calculate.html)
+<br>[計算機](https://AWEN-0719.github.io/Practicing_HTML/Exam/calculator.html)
 
 <br>[猜數字](https://AWEN-0719.github.io/Practicing_HTML/Exam/GuessNumber.html)
 <br>[終極密碼 0-100](https://AWEN-0719.github.io/Practicing_HTML/Exam/UltimatePassword.html)
