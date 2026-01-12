@@ -2,7 +2,7 @@
 ---
 ## JavaScript 複習筆記與作品集
 
-<br> [ JavaScript 練習- 網路抓圖與遞增遞減 ](https://AWEN-0719.github.io/Practicing_HTML/JavaScript/Exercise01/Index.html)
+<br> [ 練習 JavaScript + DOM 操作 + 迴圈 - 網路抓圖與遞增遞減 ](https://AWEN-0719.github.io/Practicing_HTML/JavaScript/Exercise01/Index.html)
 
 
 
