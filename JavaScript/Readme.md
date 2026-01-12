@@ -2,9 +2,10 @@
 ---
 ## JavaScript 複習筆記與作品集
 
-<br> [ JavaScript 練習 ](https://AWEN-0719.github.io/Practicing_HTML/JavaScript/Exercise01/index.html)
+<br> [ JavaScript 練習 ](https://AWEN-0719.github.io/Practicing_HTML/JavaScript/Exercise01/Index.html)
 
 
+Practicing_HTML/JavaScript/Exercise01/Index.html
 
 
 ---
